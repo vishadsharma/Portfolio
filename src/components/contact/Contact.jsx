@@ -34,7 +34,7 @@ const Contact = () => {
              <article className="contact__option">
                  <SiGmail className="contact__option-icon"/>
               <h4>Email</h4>
-              <h6>vishadsharma96@gmail@gmail.com<a href="https://gmail.com" target="_blank">Gmail.com</a></h6>
+              <h6>vishadsharma96@gmail <br /><a href="https://gmail.com" target="_blank">Gmail.com</a></h6>
               <a>Send a Message</a>   
              </article>
              {/* <article className="contact__option"> */}
